@@ -9,7 +9,7 @@
 ## 🌐 Social Links:
 | Platform | Link |
 |:--------:|------|
-| **Homepage** | [![lZiMUl](https://img.shields.io/badge/lZiMUl-FF6700?style=flat-square&logo=wordpress&logoColor=white)](https://www.lzimul.com/) |
+<!-- | **Homepage** | [![lZiMUl](https://img.shields.io/badge/lZiMUl-FF6700?style=flat-square&logo=wordpress&logoColor=white)](https://www.lzimul.com/) | -->
 | **Npm** | [![Npm](https://img.shields.io/badge/regin-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~regin) |
 | **BiliBili** | [![BiliBili](https://img.shields.io/badge/regin9-FF69B4?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/1136920640) |
 
@@ -30,6 +30,7 @@
 ## 🏆 GitHub Trophies:
 ![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=rylan-svg)
 
+<!--
 ***
 
 ## 🛠️ Open Source Projects:
@@ -39,7 +40,7 @@
 [![LawAssistAdventure](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=LawAssistAdventure)](https://github.com/lZiMUl/LawAssistAdventure)
 [![MineCraft-Server-Teleport](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=MineCraft-Server-Teleport)](https://github.com/lZiMUl/MineCraft-Server-Teleport)
 [![timer-mission](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=timer-mission)](https://github.com/lZiMUl/timer-mission)
-
+-->
 ***
 
 ## 📈 GitHub Streak & Contributions
