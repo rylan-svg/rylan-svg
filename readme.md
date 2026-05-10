@@ -1,6 +1,6 @@
-# Full-Stack Project Architect — lZiMUl
+# Full-Stack Project Architect — rylan-svg
 
-<img align="right" src="https://count.getloli.com/get/@:lZiMUl?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:rylan-svg?theme=rule34">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&width=435&lines=Welcome+to+my+personal+homepage;I+am+a+full-stack+project+architect)](https://git.io/typing-svg)
 
@@ -10,8 +10,8 @@
 | Platform | Link |
 |:--------:|------|
 | **Homepage** | [![lZiMUl](https://img.shields.io/badge/lZiMUl-FF6700?style=flat-square&logo=wordpress&logoColor=white)](https://www.lzimul.com/) |
-| **Npm** | [![Npm](https://img.shields.io/badge/lZiMUl-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~lzimul) |
-| **BiliBili** | [![BiliBili](https://img.shields.io/badge/lZiMUl-FF69B4?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/291883246) |
+| **Npm** | [![Npm](https://img.shields.io/badge/regin-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~regin) |
+| **BiliBili** | [![BiliBili](https://img.shields.io/badge/regin9-FF69B4?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/1136920640) |
 
 ***
 
@@ -28,7 +28,7 @@
 ***
 
 ## 🏆 GitHub Trophies:
-![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=lZiMUl)
+![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=rylan-svg)
 
 ***
 
@@ -43,7 +43,7 @@
 ***
 
 ## 📈 GitHub Streak & Contributions
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lZiMUl)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rylan-svg)
 
 ***
 
