@@ -9,7 +9,6 @@
 ## 🌐 Social Links:
 | Platform | Link |
 |:--------:|------|
-<!-- | **Homepage** | [![lZiMUl](https://img.shields.io/badge/lZiMUl-FF6700?style=flat-square&logo=wordpress&logoColor=white)](https://www.lzimul.com/) | -->
 | **Npm** | [![Npm](https://img.shields.io/badge/regin-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~regin) |
 | **BiliBili** | [![BiliBili](https://img.shields.io/badge/regin9-FF69B4?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/1136920640) |
 
